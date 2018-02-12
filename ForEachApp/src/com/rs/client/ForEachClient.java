@@ -7,7 +7,7 @@ public class ForEachClient {
 	
 	public static void main(String[] args) {
 		List<String> namesList=null;
-		
+		//ArrayList
 		namesList=new ArrayList<>();
 		
 		namesList.add("Lenovo");
