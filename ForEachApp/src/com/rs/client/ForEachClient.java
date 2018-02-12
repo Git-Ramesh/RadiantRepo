@@ -24,6 +24,7 @@ public class ForEachClient {
 		System.out.println(namesList.get(1)+" "+namesList.get(2)+" "+namesList.get(3));
 	}
 	//new comment
+	//old comment
 	public static void add(ArrayList list){
 		list.add(list);
 	}
