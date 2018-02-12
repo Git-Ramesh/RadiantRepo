@@ -16,6 +16,7 @@ public class ForEachClient {
 		namesList.add("Sony");
 		namesList.add("Apple");
 		namesList.add("Acer");
+		namesList.add("Samsung");
 		
 		namesList.forEach(name->{
 			System.out.println(name+" ");
