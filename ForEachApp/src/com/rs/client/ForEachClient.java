@@ -23,7 +23,7 @@ public class ForEachClient {
 		//print the elements
 		System.out.println(namesList.get(1)+" "+namesList.get(2)+" "+namesList.get(3));
 	}
-	public static add(ArrayList<?> list){
+	public static void add(ArrayList list){
 		list.add(list);
 	}
 }
